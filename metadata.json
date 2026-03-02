@@ -1,9 +1,9 @@
 {
-  "name": "BlockExplorer Token",
-  "symbol": "BLX",
-  "description": "The official utility token of the BlockExplorer project — empowering open blockchain education and exploration.",
-  "image": "<IMG_URI>",
-  "external_url": "https://blockexplorer.io",
+  "name": "Ashutosh Token",
+  "symbol": "ASH",
+  "description": "My first token",
+  "image": "blockexplorer-logo.png",
+  "external_url": "https://github.com/iammalviya",
   "attributes": [
     {
       "trait_type": "Category",
@@ -17,14 +17,14 @@
   "properties": {
     "files": [
       {
-        "uri": "<IMG_URI>",
+        "uri": "https://raw.githubusercontent.com/iammalviya/WebImageJSONFile/refs/heads/main/blockexplorer-logo.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "23VB32cT91sBLPea2VvmspLUVjAYC1yLgEeCxNK95EX4",
+        "address": "CRPvLhwTYY5E2dGSe5nyPMGmKcpGEzcJwiBtL4XMdGeg",
         "share": 100
       }
     ]
