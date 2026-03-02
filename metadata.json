@@ -2,7 +2,7 @@
   "name": "Ashutosh Token",
   "symbol": "ASH",
   "description": "My first token",
-  "image": "blockexplorer-logo.png",
+  "image": "https://raw.githubusercontent.com/iammalviya/WebImageJSONFile/refs/heads/main/blockexplorer-logo.png",
   "external_url": "https://github.com/iammalviya",
   "attributes": [
     {
